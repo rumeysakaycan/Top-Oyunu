@@ -1,0 +1,31 @@
+C:\Users\Hilmi Berk\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\Hilmi Berk\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Hilmi Berk\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Hilmi Berk\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Hilmi Berk\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Hilmi Berk\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Hilmi Berk\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Hilmi Berk\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Hilmi Berk\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Hilmi Berk\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\AMP 11 A\Nesne Tabanlı Programlama\Top Oyunu\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\AMP 11 A\Nesne Tabanlı Programlama\Top Oyunu\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\AMP 11 A\Nesne Tabanlı Programlama\Top Oyunu\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\AMP 11 A\Nesne Tabanlı Programlama\Top Oyunu\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+D:\AMP 11 A\Nesne Tabanlı Programlama\Top Oyunu\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+D:\AMP 11 A\Nesne Tabanlı Programlama\Top Oyunu\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\AMP 11 A\Nesne Tabanlı Programlama\Top Oyunu\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\AMP 11 A\Nesne Tabanlı Programlama\Top Oyunu\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\AMP 11 A\Nesne Tabanlı Programlama\Top Oyunu\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\AMP 11 A\Nesne Tabanlı Programlama\Top Oyunu\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\Nesne Tabanlı Programlama\Top Oyunu\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\Nesne Tabanlı Programlama\Top Oyunu\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\Nesne Tabanlı Programlama\Top Oyunu\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\Nesne Tabanlı Programlama\Top Oyunu\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+D:\Nesne Tabanlı Programlama\Top Oyunu\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+D:\Nesne Tabanlı Programlama\Top Oyunu\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+D:\Nesne Tabanlı Programlama\Top Oyunu\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\Nesne Tabanlı Programlama\Top Oyunu\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\Nesne Tabanlı Programlama\Top Oyunu\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\Nesne Tabanlı Programlama\Top Oyunu\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\Nesne Tabanlı Programlama\Top Oyunu\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
